@@ -140,7 +140,7 @@ async function createRepo(owner,repo)
 			if( error )
 			{
 				console.log( chalk.red( error ));
-				reject(error);
+				console.debug(error);
 				return; // Terminate execution.
 			}
 

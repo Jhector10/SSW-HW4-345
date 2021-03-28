@@ -1,3 +1,7 @@
+# Summary of HW 4
+
+This homework was difficult to comprehend because I don't have prior experience with JavaScript or with interacting with APIs all that much. Although it was interesting to complete, and the instructions did help when it came to completing the lab and homework in it's entirety. I would say the most difficult part would be the use of the JSON.stringify method that I had found out from help from my peers in so that I can solve my bugs and errors in my code. And the last part of the exercise, the Wiki support, was a bit tricky to solve as well. But overall, it was a fun exercise to get my feet wet in API work and with JavaScript.
+
 # Introduction
 
 A *RESTful architecture*, is an architectural style ([Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)) for providing resources to clients using a set of request verbs and resource locations. A REST API allows a client to access resources provided by a service.
